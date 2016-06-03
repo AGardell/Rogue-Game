@@ -1,0 +1,3 @@
+﻿  Main.cpp
+a:\libraries\documents\visual studio 2013\projects\rogue games\rogue games\main.cpp(148): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+  Rogue Games.vcxproj -> A:\Libraries\Documents\Visual Studio 2013\Projects\Rogue Games\Debug\Rogue Games.exe

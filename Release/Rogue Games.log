@@ -1,0 +1,6 @@
+﻿  Main.cpp
+Main.cpp(148): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  All 216 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Rogue Games.vcxproj -> C:\Users\agardell\Documents\Visual Studio 2015\Projects\Rogue Game\Release\Rogue Games.exe
